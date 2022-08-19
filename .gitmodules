@@ -1,0 +1,3 @@
+[submodule "git_note"]
+	path = git_note
+	url = git@github.com:nickdecodes/git_note.git
