@@ -7,3 +7,6 @@
 [submodule "mac_note"]
 	path = mac_note
 	url = git@github.com:nickdecodes/mac_note.git
+[submodule "shell_note"]
+	path = shell_note
+	url = git@github.com:nickdecodes/shell_note.git
