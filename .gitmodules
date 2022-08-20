@@ -4,3 +4,6 @@
 [submodule "vim_note"]
 	path = vim_note
 	url = git@github.com:nickdecodes/vim_note.git
+[submodule "mac_note"]
+	path = mac_note
+	url = git@github.com:nickdecodes/mac_note.git
