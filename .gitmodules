@@ -10,3 +10,6 @@
 [submodule "shell_note"]
 	path = shell_note
 	url = git@github.com:nickdecodes/shell_note.git
+[submodule "linux_note"]
+	path = linux_note
+	url = git@github.com:nickdecodes/linux_note.git
