@@ -19,3 +19,6 @@
 [submodule "docker_note"]
 	path = docker_note
 	url = git@github.com:nickdecodes/docker_note.git
+[submodule "swift_note"]
+	path = swift_note
+	url = git@github.com:nickdecodes/swift_note.git
