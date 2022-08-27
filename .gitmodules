@@ -28,3 +28,6 @@
 [submodule "java_note"]
 	path = java_note
 	url = git@github.com:nickdecodes/java_note.git
+[submodule "javascript_note"]
+	path = javascript_note
+	url = git@github.com:nickdecodes/javascript_note.git
