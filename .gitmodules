@@ -16,3 +16,6 @@
 [submodule "qt_note"]
 	path = qt_note
 	url = git@github.com:nickdecodes/qt_note.git
+[submodule "docker_note"]
+	path = docker_note
+	url = git@github.com:nickdecodes/docker_note.git
