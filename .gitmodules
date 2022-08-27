@@ -37,3 +37,6 @@
 [submodule "css_note"]
 	path = css_note
 	url = git@github.com:nickdecodes/css_note.git
+[submodule "react_note"]
+	path = react_note
+	url = git@github.com:nickdecodes/react_note.git
