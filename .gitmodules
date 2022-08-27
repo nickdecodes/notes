@@ -40,3 +40,6 @@
 [submodule "react_note"]
 	path = react_note
 	url = git@github.com:nickdecodes/react_note.git
+[submodule "vue_note"]
+	path = vue_note
+	url = git@github.com:nickdecodes/vue_note.git
