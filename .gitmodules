@@ -31,3 +31,6 @@
 [submodule "javascript_note"]
 	path = javascript_note
 	url = git@github.com:nickdecodes/javascript_note.git
+[submodule "html_note"]
+	path = html_note
+	url = git@github.com:nickdecodes/html_note.git
