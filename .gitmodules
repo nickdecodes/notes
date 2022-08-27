@@ -25,3 +25,6 @@
 [submodule "golang_note"]
 	path = golang_note
 	url = git@github.com:nickdecodes/golang_note.git
+[submodule "java_note"]
+	path = java_note
+	url = git@github.com:nickdecodes/java_note.git
