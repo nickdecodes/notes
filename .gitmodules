@@ -46,3 +46,6 @@
 [submodule "react_native_note"]
 	path = react_native_note
 	url = git@github.com:nickdecodes/react_native_note.git
+[submodule "computer_basic_note"]
+	path = computer_basic_note
+	url = git@github.com:nickdecodes/computer_basic_note.git
