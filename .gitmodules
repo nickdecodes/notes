@@ -34,3 +34,6 @@
 [submodule "html_note"]
 	path = html_note
 	url = git@github.com:nickdecodes/html_note.git
+[submodule "css_note"]
+	path = css_note
+	url = git@github.com:nickdecodes/css_note.git
