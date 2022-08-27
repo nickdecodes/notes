@@ -22,3 +22,6 @@
 [submodule "swift_note"]
 	path = swift_note
 	url = git@github.com:nickdecodes/swift_note.git
+[submodule "golang_note"]
+	path = golang_note
+	url = git@github.com:nickdecodes/golang_note.git
