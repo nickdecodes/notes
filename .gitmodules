@@ -55,3 +55,6 @@
 [submodule "cpp_note"]
 	path = cpp_note
 	url = git@github.com:nickdecodes/cpp_note.git
+[submodule "python_note"]
+	path = python_note
+	url = git@github.com:nickdecodes/python_note.git
