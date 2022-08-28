@@ -52,3 +52,6 @@
 [submodule "c_note"]
 	path = c_note
 	url = git@github.com:nickdecodes/c_note.git
+[submodule "cpp_note"]
+	path = cpp_note
+	url = git@github.com:nickdecodes/cpp_note.git
