@@ -49,3 +49,6 @@
 [submodule "computer_basic_note"]
 	path = computer_basic_note
 	url = git@github.com:nickdecodes/computer_basic_note.git
+[submodule "c_note"]
+	path = c_note
+	url = git@github.com:nickdecodes/c_note.git
