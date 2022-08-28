@@ -58,3 +58,9 @@
 [submodule "python_note"]
 	path = python_note
 	url = git@github.com:nickdecodes/python_note.git
+[submodule "middleware_note"]
+	path = middleware_note
+	url = git@github.com:nickdecodes/middleware_note.git
+[submodule "interview_note"]
+	path = interview_note
+	url = git@github.com:nickdecodes/interview_note.git
