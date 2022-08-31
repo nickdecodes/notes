@@ -64,3 +64,6 @@
 [submodule "interview_note"]
 	path = interview_note
 	url = git@github.com:nickdecodes/interview_note.git
+[submodule "mxplayer_note"]
+	path = mxplayer_note
+	url = git@github.com:nickdecodes/mxplayer_note.git
