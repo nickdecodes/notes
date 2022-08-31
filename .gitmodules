@@ -64,6 +64,3 @@
 [submodule "interview_note"]
 	path = interview_note
 	url = git@github.com:nickdecodes/interview_note.git
-[submodule "test"]
-	path = test
-	url = git@github.com:nickdecodes/test.git
