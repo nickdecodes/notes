@@ -67,3 +67,6 @@
 [submodule "mxplayer_note"]
 	path = mxplayer_note
 	url = git@github.com:nickdecodes/mxplayer_note.git
+[submodule "streaming_media_note"]
+	path = streaming_media_note
+	url = git@github.com:nickdecodes/streaming_media_note.git
