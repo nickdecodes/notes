@@ -73,3 +73,6 @@
 [submodule "work_note"]
 	path = work_note
 	url = git@github.com:nickdecodes/work_note.git
+[submodule "oms_note"]
+	path = oms_note
+	url = git@github.com:nickdecodes/oms_note.git
