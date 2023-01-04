@@ -73,3 +73,78 @@
 [submodule "work_note"]
 	path = work_note
 	url = git@github.com:nickdecodes/work_note.git
+[submodule "c-note"]
+	path = c-note
+	url = git@github.com:nickdecodes/c-note.git
+[submodule "computer-basic-note"]
+	path = computer-basic-note
+	url = git@github.com:nickdecodes/computer-basic-note.git
+[submodule "cpp-note"]
+	path = cpp-note
+	url = git@github.com:nickdecodes/cpp-note.git
+[submodule "css-note"]
+	path = css-note
+	url = git@github.com:nickdecodes/css-note.git
+[submodule "deep-learning-note"]
+	path = deep-learning-note
+	url = git@github.com:nickdecodes/deep-learning-note.git
+[submodule "docker-note"]
+	path = docker-note
+	url = git@github.com:nickdecodes/docker-note.git
+[submodule "git-note"]
+	path = git-note
+	url = git@github.com:nickdecodes/git-note.git
+[submodule "golang-note"]
+	path = golang-note
+	url = git@github.com:nickdecodes/golang-note.git
+[submodule "html-note"]
+	path = html-note
+	url = git@github.com:nickdecodes/html-note.git
+[submodule "interview-note"]
+	path = interview-note
+	url = git@github.com:nickdecodes/interview-note.git
+[submodule "java-note"]
+	path = java-note
+	url = git@github.com:nickdecodes/java-note.git
+[submodule "javascript-note"]
+	path = javascript-note
+	url = git@github.com:nickdecodes/javascript-note.git
+[submodule "linux-note"]
+	path = linux-note
+	url = git@github.com:nickdecodes/linux-note.git
+[submodule "mac-note"]
+	path = mac-note
+	url = git@github.com:nickdecodes/mac-note.git
+[submodule "middleware-note"]
+	path = middleware-note
+	url = git@github.com:nickdecodes/middleware-note.git
+[submodule "python-note"]
+	path = python-note
+	url = git@github.com:nickdecodes/python-note.git
+[submodule "qt-note"]
+	path = qt-note
+	url = git@github.com:nickdecodes/qt-note.git
+[submodule "react-native-note"]
+	path = react-native-note
+	url = git@github.com:nickdecodes/react-native-note.git
+[submodule "react-note"]
+	path = react-note
+	url = git@github.com:nickdecodes/react-note.git
+[submodule "shell-note"]
+	path = shell-note
+	url = git@github.com:nickdecodes/shell-note.git
+[submodule "streaming-media-note"]
+	path = streaming-media-note
+	url = git@github.com:nickdecodes/streaming-media-note.git
+[submodule "swift-note"]
+	path = swift-note
+	url = git@github.com:nickdecodes/swift-note.git
+[submodule "vim-note"]
+	path = vim-note
+	url = git@github.com:nickdecodes/vim-note.git
+[submodule "vue-note"]
+	path = vue-note
+	url = git@github.com:nickdecodes/vue-note.git
+[submodule "work-note"]
+	path = work-note
+	url = git@github.com:nickdecodes/work-note.git
